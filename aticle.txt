@@ -1,0 +1,19 @@
+pwd
+ls
+cat
+touch
+less
+|
+vim
+
+cd
+cd ..
+cd /
+
+cp
+mv
+rm
+rm -rf
+mkdir
+
+

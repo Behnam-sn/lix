@@ -3,8 +3,17 @@ ls
 cat
 touch
 less
-|
+time
+echo
+type
+exit
+
+
 vim
+jcal
+neofetch
+uname
+
 
 cd
 cd ..

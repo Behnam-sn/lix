@@ -13,6 +13,7 @@ vim
 jcal
 neofetch
 uname
+lsb_realese -a
 
 
 cd
@@ -24,5 +25,7 @@ mv
 rm
 rm -rf
 mkdir
+du
+du -sh
 
 

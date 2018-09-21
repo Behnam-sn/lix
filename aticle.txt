@@ -10,8 +10,12 @@ exit
 
 
 vim
+gedit
 jcal
 neofetch
+wget
+
+
 uname
 lsb_realese -a
 
